@@ -1,0 +1,4 @@
+use next router instead of react router dom
+use react hook form https://react-hook-form.com/
+use shad cn https://ui.shadcn.com/
+dont save jwt token in database in database because it is only for session like 10 mins so make it in database

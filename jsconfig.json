@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    // Remove the "include" property
+    "paths": {
+      "@/app/*": ["./src/app/*"],
+      "@/models/*": ["./src/models/*"],
+      "@/components/*": ["./src/components/*"]
+    }
+  }
+}
